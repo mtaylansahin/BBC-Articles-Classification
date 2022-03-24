@@ -12,3 +12,5 @@ A public dataset from the BBC comprised of 2225 articles, each labeled under one
     Tech.
 
 Kaggle dataset link: https://www.kaggle.com/c/learn-ai-bbc/data
+
+I stored the dataset in a sqlite db under Database folder for easier access.
